@@ -1,2 +1,1 @@
-# adsense
-adsense
+##genkz team
